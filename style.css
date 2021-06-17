@@ -1,0 +1,29 @@
+section{
+  height:400px;
+  width: 100%
+}
+.first{
+  background-color: pink;
+ }
+.second{
+  background-color: green;
+  color: white
+} 
+p{
+  background-color: blue
+  margin: 60px
+  padding: 40px
+}
+div{
+  display: inline-block;
+  padding 30px
+}
+img{
+  width: 200px;
+  height: 150px;
+}
+footer{
+    background-color: red;
+    height: 20px;
+
+}
