@@ -27,3 +27,8 @@ else if (niceflowers == "coconut") {
 else {
   console.log("sorry, we didn't have your order")
 }
+
+var numofflowers=prompt("how many times you would like to see flowers?")
+
+for (var i=0; i < numofflowers; i++)
+{document.write("<img src='https://www.alfakher50g.com/wp-content/uploads/2020/09/purple-grape-600x600.png'>")}
